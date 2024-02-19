@@ -1,3 +1,6 @@
+[firstapp.webm](https://github.com/surajiyer26/firstapp/assets/114157491/e7a47a47-4b85-4a78-9b2e-503e5dbe4152)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
